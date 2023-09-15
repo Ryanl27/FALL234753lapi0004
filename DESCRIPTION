@@ -8,3 +8,5 @@ Description: Lab functions we use in MATH4753.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/Ryanl27/FALL234753lapi0004
+BugReports: https://github.com/Ryanl27/FALL234753lapi0004/issues
